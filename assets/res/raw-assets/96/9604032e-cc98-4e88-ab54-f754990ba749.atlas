@@ -1,0 +1,167 @@
+
+avatarframe_v_6.png
+size: 343,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+v6-dk
+  rotate: false
+  xy: 2, 160
+  size: 175, 181
+  orig: 175, 181
+  offset: 0, 0
+  index: -1
+v6-sg/v6-sg_0
+  rotate: true
+  xy: 323, 173
+  size: 34, 5
+  orig: 90, 93
+  offset: 28, 1
+  index: -1
+v6-sg/v6-sg_1
+  rotate: true
+  xy: 163, 104
+  size: 54, 11
+  orig: 90, 93
+  offset: 18, 1
+  index: -1
+v6-sg/v6-sg_10
+  rotate: false
+  xy: 233, 257
+  size: 88, 41
+  orig: 90, 93
+  offset: 1, 26
+  index: -1
+v6-sg/v6-sg_11
+  rotate: false
+  xy: 233, 214
+  size: 88, 41
+  orig: 90, 93
+  offset: 1, 32
+  index: -1
+v6-sg/v6-sg_12
+  rotate: false
+  xy: 233, 171
+  size: 88, 41
+  orig: 90, 93
+  offset: 1, 38
+  index: -1
+v6-sg/v6-sg_13
+  rotate: false
+  xy: 92, 33
+  size: 88, 40
+  orig: 90, 93
+  offset: 1, 45
+  index: -1
+v6-sg/v6-sg_14
+  rotate: false
+  xy: 228, 92
+  size: 86, 40
+  orig: 90, 93
+  offset: 2, 51
+  index: -1
+v6-sg/v6-sg_15
+  rotate: true
+  xy: 182, 46
+  size: 84, 35
+  orig: 90, 93
+  offset: 3, 57
+  index: -1
+v6-sg/v6-sg_16
+  rotate: false
+  xy: 86, 2
+  size: 80, 29
+  orig: 90, 93
+  offset: 5, 63
+  index: -1
+v6-sg/v6-sg_17
+  rotate: false
+  xy: 219, 42
+  size: 74, 23
+  orig: 90, 93
+  offset: 8, 69
+  index: -1
+v6-sg/v6-sg_18
+  rotate: true
+  xy: 323, 209
+  size: 64, 17
+  orig: 90, 93
+  offset: 13, 75
+  index: -1
+v6-sg/v6-sg_19
+  rotate: false
+  xy: 176, 132
+  size: 50, 11
+  orig: 90, 93
+  offset: 20, 81
+  index: -1
+v6-sg/v6-sg_2
+  rotate: true
+  xy: 323, 275
+  size: 66, 17
+  orig: 90, 93
+  offset: 12, 1
+  index: -1
+v6-sg/v6-sg_3
+  rotate: false
+  xy: 219, 67
+  size: 76, 23
+  orig: 90, 93
+  offset: 7, 1
+  index: -1
+v6-sg/v6-sg_4
+  rotate: false
+  xy: 2, 2
+  size: 82, 29
+  orig: 90, 93
+  offset: 4, 1
+  index: -1
+v6-sg/v6-sg_5
+  rotate: false
+  xy: 233, 134
+  size: 86, 35
+  orig: 90, 93
+  offset: 2, 1
+  index: -1
+v6-sg/v6-sg_6
+  rotate: false
+  xy: 73, 75
+  size: 88, 40
+  orig: 90, 93
+  offset: 1, 2
+  index: -1
+v6-sg/v6-sg_7
+  rotate: false
+  xy: 2, 33
+  size: 88, 40
+  orig: 90, 93
+  offset: 1, 8
+  index: -1
+v6-sg/v6-sg_8
+  rotate: false
+  xy: 233, 300
+  size: 88, 41
+  orig: 90, 93
+  offset: 1, 14
+  index: -1
+v6-sg/v6-sg_9
+  rotate: false
+  xy: 73, 117
+  size: 88, 41
+  orig: 90, 93
+  offset: 1, 20
+  index: -1
+v6-y
+  rotate: false
+  xy: 2, 75
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+v6-zj
+  rotate: true
+  xy: 179, 145
+  size: 196, 52
+  orig: 196, 52
+  offset: 0, 0
+  index: -1

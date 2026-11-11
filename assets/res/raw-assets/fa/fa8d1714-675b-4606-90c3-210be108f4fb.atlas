@@ -1,0 +1,27 @@
+
+avatarframe_2005.png
+size: 314,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2005wjy
+  rotate: false
+  xy: 206, 232
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+7_1
+  rotate: false
+  xy: 2, 132
+  size: 202, 180
+  orig: 320, 320
+  offset: 58, 68
+  index: -1
+gfx_flare_23
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

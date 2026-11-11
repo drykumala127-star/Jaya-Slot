@@ -1,0 +1,265 @@
+
+avatarframe_2004.png
+size: 408,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2004-1
+  rotate: false
+  xy: 95, 56
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+2004-2
+  rotate: false
+  xy: 88, 2
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+2004-3
+  rotate: true
+  xy: 257, 72
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+2004-4
+  rotate: false
+  xy: 261, 119
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+2004-5
+  rotate: false
+  xy: 354, 162
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+2004-6
+  rotate: false
+  xy: 261, 171
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+2004dk
+  rotate: false
+  xy: 2, 224
+  size: 181, 182
+  orig: 181, 182
+  offset: 0, 0
+  index: -1
+2004sg/2004sg_0
+  rotate: true
+  xy: 249, 45
+  size: 14, 6
+  orig: 76, 41
+  offset: 27, 32
+  index: -1
+2004sg/2004sg_1
+  rotate: true
+  xy: 173, 199
+  size: 23, 4
+  orig: 76, 41
+  offset: 41, 37
+  index: -1
+2004sg/2004sg_2
+  rotate: false
+  xy: 360, 216
+  size: 18, 22
+  orig: 76, 41
+  offset: 58, 19
+  index: -1
+2004sg/2004sg_3
+  rotate: false
+  xy: 339, 130
+  size: 27, 30
+  orig: 76, 41
+  offset: 48, 9
+  index: -1
+2004sg/2004sg_4
+  rotate: false
+  xy: 368, 137
+  size: 34, 23
+  orig: 76, 41
+  offset: 35, 3
+  index: -1
+2004sg/2004sg_5
+  rotate: false
+  xy: 331, 24
+  size: 36, 17
+  orig: 76, 41
+  offset: 20, 0
+  index: -1
+2004sg/2004sg_6
+  rotate: false
+  xy: 214, 40
+  size: 33, 19
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+2004sg/2004sg_7
+  rotate: true
+  xy: 210, 2
+  size: 20, 22
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+2004sg/2004sg_8
+  rotate: true
+  xy: 368, 119
+  size: 16, 23
+  orig: 76, 41
+  offset: 0, 1
+  index: -1
+2004sg/2004sg_9
+  rotate: false
+  xy: 360, 240
+  size: 17, 23
+  orig: 76, 41
+  offset: 0, 2
+  index: -1
+2004sgr/2004sgr_0
+  rotate: true
+  xy: 393, 109
+  size: 26, 13
+  orig: 95, 95
+  offset: 16, 80
+  index: -1
+2004sgr/2004sgr_1
+  rotate: false
+  xy: 158, 2
+  size: 50, 24
+  orig: 95, 95
+  offset: 8, 69
+  index: -1
+2004sgr/2004sgr_10
+  rotate: false
+  xy: 2, 143
+  size: 91, 79
+  orig: 95, 95
+  offset: 2, 8
+  index: -1
+2004sgr/2004sgr_11
+  rotate: false
+  xy: 185, 327
+  size: 91, 79
+  orig: 95, 95
+  offset: 2, 4
+  index: -1
+2004sgr/2004sgr_12
+  rotate: true
+  xy: 95, 131
+  size: 91, 76
+  orig: 95, 95
+  offset: 2, 2
+  index: -1
+2004sgr/2004sgr_13
+  rotate: false
+  xy: 278, 336
+  size: 90, 70
+  orig: 95, 95
+  offset: 3, 2
+  index: -1
+2004sgr/2004sgr_14
+  rotate: false
+  xy: 185, 184
+  size: 87, 64
+  orig: 95, 95
+  offset: 6, 2
+  index: -1
+2004sgr/2004sgr_15
+  rotate: false
+  xy: 2, 4
+  size: 84, 57
+  orig: 95, 95
+  offset: 9, 2
+  index: -1
+2004sgr/2004sgr_16
+  rotate: false
+  xy: 278, 213
+  size: 80, 50
+  orig: 95, 95
+  offset: 13, 2
+  index: -1
+2004sgr/2004sgr_17
+  rotate: true
+  xy: 331, 43
+  size: 74, 43
+  orig: 95, 95
+  offset: 19, 2
+  index: -1
+2004sgr/2004sgr_18
+  rotate: true
+  xy: 370, 341
+  size: 65, 34
+  orig: 95, 95
+  offset: 26, 2
+  index: -1
+2004sgr/2004sgr_19
+  rotate: false
+  xy: 158, 28
+  size: 54, 26
+  orig: 95, 95
+  offset: 34, 2
+  index: -1
+2004sgr/2004sgr_2
+  rotate: true
+  xy: 369, 270
+  size: 64, 33
+  orig: 95, 95
+  offset: 4, 60
+  index: -1
+2004sgr/2004sgr_3
+  rotate: false
+  xy: 257, 28
+  size: 72, 42
+  orig: 95, 95
+  offset: 2, 51
+  index: -1
+2004sgr/2004sgr_4
+  rotate: false
+  xy: 274, 162
+  size: 78, 49
+  orig: 95, 95
+  offset: 2, 44
+  index: -1
+2004sgr/2004sgr_5
+  rotate: false
+  xy: 172, 61
+  size: 83, 56
+  orig: 95, 95
+  offset: 2, 37
+  index: -1
+2004sgr/2004sgr_6
+  rotate: false
+  xy: 173, 119
+  size: 86, 63
+  orig: 95, 95
+  offset: 2, 30
+  index: -1
+2004sgr/2004sgr_7
+  rotate: false
+  xy: 278, 265
+  size: 89, 69
+  orig: 95, 95
+  offset: 2, 24
+  index: -1
+2004sgr/2004sgr_8
+  rotate: false
+  xy: 185, 250
+  size: 91, 75
+  orig: 95, 95
+  offset: 2, 18
+  index: -1
+2004sgr/2004sgr_9
+  rotate: false
+  xy: 2, 63
+  size: 91, 78
+  orig: 95, 95
+  offset: 2, 13
+  index: -1

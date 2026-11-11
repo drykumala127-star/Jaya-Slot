@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jaya Slot</string>
+    <string name="channel_description">Yono_push_des</string>
+    <string name="channel_name">Yono_push</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">%1$s won\'t work unless you enable Google Play services.</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">%1$s won\'t run without Google Play services, which are missing from your device.</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s won\'t run without Google Play services, which are not supported by your device.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">%1$s won\'t run unless you update Google Play services.</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">%1$s won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="deep_link_host">jayaslot.com</string>
+    <string name="deep_link_scheme">jayaslot</string>
+    <string name="default_notification_channel_id">1</string>
+    <string name="done">Done</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="gcm_defaultSenderId">633182924281</string>
+    <string name="go">Go</string>
+    <string name="google_api_key">AIzaSyCm0bC5rrb-rklmu2zEGAHdiQBFSb6FrHo</string>
+    <string name="google_app_id">1:633182924281:android:70f31967c18ff5f87b2128</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCm0bC5rrb-rklmu2zEGAHdiQBFSb6FrHo</string>
+    <string name="google_storage_bucket">jayaslot-3385c.appspot.com</string>
+    <string name="next">Next</string>
+    <string name="project_id">jayaslot-3385c</string>
+    <string name="search">Search</string>
+    <string name="send">Send</string>
+</resources>

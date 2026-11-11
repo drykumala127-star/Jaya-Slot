@@ -1,0 +1,13 @@
+
+avatarframe_1004.png
+size: 178,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+avatarframe_1001/avatarframe_1004
+  rotate: false
+  xy: 2, 2
+  size: 174, 172
+  orig: 320, 320
+  offset: 72, 77
+  index: -1
